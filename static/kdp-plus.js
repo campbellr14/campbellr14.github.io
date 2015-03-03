@@ -31,10 +31,10 @@ if (!Array.prototype.reduce) {
 }
 
 (function() {
-    var host = "https://selfpubtech.github.io/kdp-plus/static/";
+    var host = "https://campbellr14.github.io/kdp-plus/static/";
     //host = "http://localhost:5555/";
 
-    var BORROW_RATE = 1.43;
+    var BORROW_RATE = 1.38;
     var EXCHANGE_RATE = {
         "USD": 1,
         "GBP": 1.6,
